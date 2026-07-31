@@ -13,3 +13,7 @@ a script to run in termux to get XVoard apk
 3. open your file manager and go to /sdcard/Download/XVoard-main/dist you will find aan apk called XVoard-v3-FAC_mod-aligned-debugSigned.apk ( or something similar )
 4. install XVoard-v3-FAC_mod-aligned-debugSigned.apk
 and you are done
+# IMPORTANT NOTE'S
+1. the script will take at least 6 minutes depending on your internet speed
+2. in the mid of that script termux will ask you for all file's access , Grant that , it is needed to locate where the XVoard-main.zip is and do the work with it
+3. while the script is running it will ask you for somethings to you accept that some downloaded things will take storage , if it says at the end [y/N] type y and hit enter , if it says other things type N
