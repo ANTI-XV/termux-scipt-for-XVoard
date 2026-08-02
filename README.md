@@ -16,4 +16,4 @@ and you are done
 # IMPORTANT NOTE'S
 1. the script will take at least 6 minutes depending on your internet speed
 2. in the mid of that script termux will ask you for all file's access , Grant that , it is needed to locate where the XVoard-main.zip is and do the work with it
-3. while the script is running it will ask you for somethings to you accept that some downloaded things will take storage , if it says at the end [y/N] type y and hit enter , if it says other things type N
+3. while the script is running it will ask you for somethings to you accept that some downloaded things will take storage , if it says at the end [y/N] type y and hit enter , if it say something else and there is N option type N , and if it ask you to replace a file choice A ( replace all files )
