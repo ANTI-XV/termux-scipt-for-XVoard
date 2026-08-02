@@ -1,4 +1,4 @@
-# termux-scipt-for-XVoard
+# termux-script-for-XVoard
 a script to run in termux to get XVoard apk
 # Requirements
 - <a href="https://f-droid.org/en/packages/com.termux/">Termux App</a>
